@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Démos", "Démos", "{20DED4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Tableau-Taille", "Demo-Tableau-Taille\Demo-Tableau-Taille.csproj", "{99A9B96C-BBC8-4C24-B9D1-ECE4114DFF61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-P164-01", "Exo-P164-01\Exo-P164-01.csproj", "{00157323-FAA2-4484-95B5-58E53F9A59B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{99A9B96C-BBC8-4C24-B9D1-ECE4114DFF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99A9B96C-BBC8-4C24-B9D1-ECE4114DFF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99A9B96C-BBC8-4C24-B9D1-ECE4114DFF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00157323-FAA2-4484-95B5-58E53F9A59B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00157323-FAA2-4484-95B5-58E53F9A59B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00157323-FAA2-4484-95B5-58E53F9A59B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00157323-FAA2-4484-95B5-58E53F9A59B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{8D66F71D-0324-47E5-8A8E-401E338B3EE5} = {A578F257-F167-413C-A1B8-769846AA1587}
 		{51D22672-9CDF-4177-A0DD-A83CA17B60CE} = {A578F257-F167-413C-A1B8-769846AA1587}
 		{99A9B96C-BBC8-4C24-B9D1-ECE4114DFF61} = {20DED4E4-12B9-4009-9E26-AD11A650FCE5}
+		{00157323-FAA2-4484-95B5-58E53F9A59B3} = {A578F257-F167-413C-A1B8-769846AA1587}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {141228DE-F77C-441A-B174-AA8D472DCA45}
